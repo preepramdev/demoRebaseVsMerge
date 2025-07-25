@@ -1,3 +1,4 @@
 # demoRebaseVsMerge
 
 first
+second
